@@ -1,0 +1,33 @@
+.navbar li {
+    display: inline-block;
+    text-align: center;
+}
+
+.itemLeft {
+    width: 15%;
+}
+
+.itemCenter {
+    width: 70%;
+}
+
+.itemRight {
+    width: 15%;
+}
+
+li {
+    color: yellow;
+    padding: 15px 0;
+    font-weight: bolder;
+    font-size: 15px;
+    font-family: 'Patua One', cursive;
+    color: cornsilk;
+}
+
+.logo{
+    position: relative;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: cornsilk;
+}

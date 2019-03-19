@@ -1,0 +1,16 @@
+.card {
+    width: 300px;
+    height: 250px;
+    margin: 15px 45px;
+  }
+
+.img-container {
+    background-color: orange;
+}
+
+.characters {
+  position: relative;
+  width: 275px;
+  height: 250px;
+}
+
